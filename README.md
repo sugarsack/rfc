@@ -26,7 +26,7 @@ All the history of the voting and acceptance/rejection is going to be there in t
 
 # FAQ
 
-**Q: Is there are general BDFL of the entire project who can kill it regardless?**
+**Q: Is there are general BDFL of the entire project who can kill my RFC, regardless?**
 
 A: No and never will be. You are BDFL of _your own_ feature. Cherish it, make a best out of it!
 
