@@ -26,11 +26,14 @@ All the history of the voting and acceptance/rejection is going to be there in t
 
 # FAQ
 
-Q: Is there are general BDFL of the entire project who can kill it regardless?
+**Q: Is there are general BDFL of the entire project who can kill it regardless?**
+
 A: No and never will be. You are BDFL of _your own_ feature. Cherish it, make a best out of it!
 
-Q: I designed so great, but nobody wants it.
+**Q: I designed so great, but nobody wants it.**
+
 A: `¯\_(ツ)_/¯` That's the life. But try again, "sell" it better. Maybe nobody just understands it, or maybe you should consider arguments and "rephrase" it better? In any case, try again.
 
-Q: What are criteria to be accepted or rejected?
+**Q: What are criteria to be accepted or rejected?**
+
 A: Whoever does most work probably has more "weight" in the voice. So if you want to be like a Hulk here, absolutely go ahead with your ideas and PRs (bugfixes, tests, RFC implementations etc)!
